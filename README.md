@@ -1,6 +1,6 @@
-twitterClone
+user Role Permission API
 ===============
-This is a twitter like prototyped application built on Node.JS , MongoDB REDIS & Mongoose.
+API fro creating users/roles/permission & relevant API
 
 No UI is provided.
 
@@ -10,14 +10,9 @@ Current API is:
 signup,
 login,
 user,
-follow,
-post,
-comment,
-likecomment,
-unlikecomment,
-mycomments,
-myposts,
-myhome.
+role,
+permission,
+isPermitted.
 
 
 
